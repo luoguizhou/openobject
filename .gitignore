@@ -7,3 +7,7 @@
 .DS_Store
 *~
 *.orig
+gooderp_addons
+grinding_wheel_erp
+*.pyc
+*.swp
